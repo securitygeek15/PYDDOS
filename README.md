@@ -12,7 +12,7 @@ $apt install git
 
 $apt install python3
 
-$git clone https://github.com/Amaankhan123456/PYDDOS.git
+$git clone https://github.com/securitygeek15/PYDDOS
 
 $cd PYDDOS
 
